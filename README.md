@@ -1,6 +1,6 @@
-# Jupter Notebooks. Visualizing data and relaying technical information.
-Hi, and welcome to the Jupter Notebook tech talk. This talk is mostly going to
-be a tutorial demonstrating what jupyter notebooks can do and hopefully add a
+# Jupyter Notebooks Workshop.
+Hi, and welcome to the Jupyter Notebook Workshop. This workshop is going to give
+you some hands on experience working with Jupyter Notebooks and hopefully add a
 tool for relaying technical information to your repertoire.
 
 ## Getting Started

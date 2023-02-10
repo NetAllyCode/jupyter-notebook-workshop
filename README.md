@@ -19,3 +19,5 @@ jupyter notebook
 ```
 4. Your browser should open a new tab and look similar to the following picture.
 ![jupyter notebook entry](./images/jupyter-notebook-entry.png)
+
+5. Open the `workshop.ipynb` file.
